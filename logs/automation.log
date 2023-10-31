@@ -1,0 +1,157 @@
+12:42:10.612 [main] INFO  testCases.TC_001_Login - **** Starting TC_001_Login Test****
+12:42:11.232 [main] INFO  testCases.TC_001_Login - Entering username
+12:42:11.633 [main] INFO  testCases.TC_001_Login - Entering password
+12:42:11.818 [main] INFO  testCases.TC_001_Login - click on lohin button
+12:42:11.831 [main] INFO  testCases.TC_001_Login - validating login page
+12:42:13.943 [main] INFO  testCases.TC_001_Login - **** Finished TC_001_Login Test****
+12:43:56.988 [main] INFO  testCases.TC_001_Login - **** Starting TC_001_Login Test****
+12:43:57.521 [main] INFO  testCases.TC_001_Login - Entering username
+12:43:57.724 [main] INFO  testCases.TC_001_Login - Entering password
+12:43:57.969 [main] INFO  testCases.TC_001_Login - click on lohin button
+12:43:57.971 [main] INFO  testCases.TC_001_Login - validating login page
+12:43:59.882 [main] INFO  testCases.TC_001_Login - **** Finished TC_001_Login Test****
+12:44:41.450 [main] DEBUG io.netty.util.internal.logging.InternalLoggerFactory - Using Log4J2 as the default logging framework
+12:44:41.509 [main] DEBUG io.netty.util.ResourceLeakDetector - -Dio.netty.leakDetection.level: simple
+12:44:41.509 [main] DEBUG io.netty.util.ResourceLeakDetector - -Dio.netty.leakDetection.targetRecords: 4
+12:44:41.518 [main] DEBUG io.netty.util.ResourceLeakDetectorFactory - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@4159e81b
+12:44:41.561 [main] DEBUG io.netty.util.internal.PlatformDependent0 - -Dio.netty.noUnsafe: false
+12:44:41.561 [main] DEBUG io.netty.util.internal.PlatformDependent0 - Java version: 17
+12:44:41.565 [main] DEBUG io.netty.util.internal.PlatformDependent0 - sun.misc.Unsafe.theUnsafe: available
+12:44:41.567 [main] DEBUG io.netty.util.internal.PlatformDependent0 - sun.misc.Unsafe.copyMemory: available
+12:44:41.568 [main] DEBUG io.netty.util.internal.PlatformDependent0 - sun.misc.Unsafe.storeFence: available
+12:44:41.570 [main] DEBUG io.netty.util.internal.PlatformDependent0 - java.nio.Buffer.address: available
+12:44:41.573 [main] DEBUG io.netty.util.internal.PlatformDependent0 - direct buffer constructor: unavailable: Reflective setAccessible(true) disabled
+12:44:41.575 [main] DEBUG io.netty.util.internal.PlatformDependent0 - java.nio.Bits.unaligned: available, true
+12:44:41.577 [main] DEBUG io.netty.util.internal.PlatformDependent0 - jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable: class io.netty.util.internal.PlatformDependent0$7 cannot access class jdk.internal.misc.Unsafe (in module java.base) because module java.base does not export jdk.internal.misc to unnamed module @7f560810
+12:44:41.580 [main] DEBUG io.netty.util.internal.PlatformDependent0 - java.nio.DirectByteBuffer.<init>(long, int): unavailable
+12:44:41.581 [main] DEBUG io.netty.util.internal.PlatformDependent - sun.misc.Unsafe: available
+12:44:41.582 [main] DEBUG io.netty.util.internal.PlatformDependent - maxDirectMemory: 1046478848 bytes (maybe)
+12:44:41.582 [main] DEBUG io.netty.util.internal.PlatformDependent - -Dio.netty.tmpdir: C:\Users\ADMIN\AppData\Local\Temp (java.io.tmpdir)
+12:44:41.582 [main] DEBUG io.netty.util.internal.PlatformDependent - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+12:44:41.583 [main] DEBUG io.netty.util.internal.PlatformDependent - Platform: Windows
+12:44:41.586 [main] DEBUG io.netty.util.internal.PlatformDependent - -Dio.netty.maxDirectMemory: -1 bytes
+12:44:41.587 [main] DEBUG io.netty.util.internal.PlatformDependent - -Dio.netty.uninitializedArrayAllocationThreshold: -1
+12:44:41.590 [main] DEBUG io.netty.util.internal.CleanerJava9 - java.nio.ByteBuffer.cleaner(): available
+12:44:41.590 [main] DEBUG io.netty.util.internal.PlatformDependent - -Dio.netty.noPreferDirect: false
+12:44:41.614 [main] DEBUG io.netty.util.internal.PlatformDependent - org.jctools-core.MpscChunkedArrayQueue: available
+12:44:41.700 [main] DEBUG io.netty.util.internal.InternalThreadLocalMap - -Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+12:44:41.700 [main] DEBUG io.netty.util.internal.InternalThreadLocalMap - -Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+12:44:42.140 [main] DEBUG io.netty.handler.ssl.JdkSslContext - Default protocols (JDK): [TLSv1.3, TLSv1.2] 
+12:44:42.140 [main] DEBUG io.netty.handler.ssl.JdkSslContext - Default cipher suites (JDK): [TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_AES_128_GCM_SHA256, TLS_AES_256_GCM_SHA384]
+12:44:42.160 [main] DEBUG io.netty.util.concurrent.GlobalEventExecutor - -Dio.netty.globalEventExecutor.quietPeriodSeconds: 1
+12:44:42.184 [main] DEBUG io.netty.channel.MultithreadEventLoopGroup - -Dio.netty.eventLoopThreads: 8
+12:44:42.195 [main] DEBUG io.netty.channel.nio.NioEventLoop - -Dio.netty.noKeySetOptimization: false
+12:44:42.196 [main] DEBUG io.netty.channel.nio.NioEventLoop - -Dio.netty.selectorAutoRebuildThreshold: 512
+12:44:42.285 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.numHeapArenas: 8
+12:44:42.286 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.numDirectArenas: 8
+12:44:42.286 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.pageSize: 8192
+12:44:42.286 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.maxOrder: 9
+12:44:42.286 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.chunkSize: 4194304
+12:44:42.286 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.smallCacheSize: 256
+12:44:42.287 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.normalCacheSize: 64
+12:44:42.287 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+12:44:42.287 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.cacheTrimInterval: 8192
+12:44:42.287 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.cacheTrimIntervalMillis: 0
+12:44:42.287 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.useCacheForAllThreads: false
+12:44:42.287 [main] DEBUG io.netty.buffer.PooledByteBufAllocator - -Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+12:44:42.307 [main] DEBUG io.netty.buffer.ByteBufUtil - -Dio.netty.allocator.type: pooled
+12:44:42.307 [main] DEBUG io.netty.buffer.ByteBufUtil - -Dio.netty.threadLocalDirectBufferSize: 0
+12:44:42.307 [main] DEBUG io.netty.buffer.ByteBufUtil - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+12:44:42.780 [Forwarding newSession on session null to remote] DEBUG io.netty.channel.DefaultChannelId - -Dio.netty.processId: 13104 (auto-detected)
+12:44:42.784 [Forwarding newSession on session null to remote] DEBUG io.netty.util.NetUtil - -Djava.net.preferIPv4Stack: false
+12:44:42.784 [Forwarding newSession on session null to remote] DEBUG io.netty.util.NetUtil - -Djava.net.preferIPv6Addresses: false
+12:44:42.796 [Forwarding newSession on session null to remote] DEBUG io.netty.util.NetUtilInitializations - Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+12:44:42.798 [Forwarding newSession on session null to remote] DEBUG io.netty.util.NetUtil - Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+12:44:42.833 [Forwarding newSession on session null to remote] DEBUG io.netty.channel.DefaultChannelId - -Dio.netty.machineId: f8:ca:b8:ff:fe:2a:05:71 (auto-detected)
+12:44:42.917 [AsyncHttpClient-1-2] DEBUG io.netty.buffer.AbstractByteBuf - -Dio.netty.buffer.checkAccessible: true
+12:44:42.918 [AsyncHttpClient-1-2] DEBUG io.netty.buffer.AbstractByteBuf - -Dio.netty.buffer.checkBounds: true
+12:44:42.918 [AsyncHttpClient-1-2] DEBUG io.netty.util.ResourceLeakDetectorFactory - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@57d5a8bc
+12:44:42.967 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.maxCapacityPerThread: 4096
+12:44:42.968 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.ratio: 8
+12:44:42.969 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.chunkSize: 32
+12:44:42.970 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.blocking: false
+12:44:42.970 [AsyncHttpClient-1-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.batchFastThreadLocalOnly: true
+12:44:44.668 [AsyncHttpClient-1-2] DEBUG io.netty.handler.codec.compression.Brotli - brotli4j not in the classpath; Brotli support will be unavailable.
+12:44:45.121 [main] DEBUG io.netty.util.internal.ThreadLocalRandom - -Dio.netty.initialSeedUniquifier: 0x3cc7aba504b8ace1
+12:44:48.558 [main] DEBUG testCases.TC_001_Login - ***Application log.....
+12:44:48.558 [main] INFO  testCases.TC_001_Login - **** Starting TC_001_Login Test****
+12:44:49.071 [main] INFO  testCases.TC_001_Login - Entering username
+12:44:49.332 [main] INFO  testCases.TC_001_Login - Entering password
+12:44:49.644 [main] INFO  testCases.TC_001_Login - click on lohin button
+12:44:49.652 [main] INFO  testCases.TC_001_Login - validating login page
+12:44:51.509 [main] INFO  testCases.TC_001_Login - **** Finished TC_001_Login Test****
+12:34:38.884 [main] INFO  testCases.TC_001_Login - **** Starting TC_001_Login Test****
+12:34:39.279 [main] INFO  testCases.TC_001_Login - Entering username
+12:34:39.411 [main] INFO  testCases.TC_001_Login - Entering password
+12:34:40.232 [main] INFO  testCases.TC_001_Login - click on lohin button
+12:34:40.234 [main] INFO  testCases.TC_001_Login - validating login page
+12:39:07.256 [main] INFO  testCases.TC_001_Login - **** Starting TC_001_Login Test****
+12:39:10.062 [main] INFO  testCases.TC_001_Login - Entering username
+12:39:10.204 [main] INFO  testCases.TC_001_Login - Entering password
+12:39:10.290 [main] INFO  testCases.TC_001_Login - click on lohin button
+12:39:10.297 [main] INFO  testCases.TC_001_Login - validating login page
+12:48:11.714 [main] INFO  testCases.TC_001_Login - **** Starting TC_001_Login Test****
+12:48:16.308 [main] INFO  testCases.TC_001_Login - Entering username
+12:48:17.249 [main] INFO  testCases.TC_001_Login - Entering password
+12:48:18.511 [main] INFO  testCases.TC_001_Login - click on lohin button
+12:48:18.583 [main] INFO  testCases.TC_001_Login - validating login page
+12:50:46.959 [main] INFO  testCases.TC_001_Login - **** Starting TC_001_Login Test****
+12:50:47.531 [main] INFO  testCases.TC_001_Login - Entering username
+12:50:47.668 [main] INFO  testCases.TC_001_Login - Entering password
+12:50:47.755 [main] INFO  testCases.TC_001_Login - click on lohin button
+12:50:47.762 [main] INFO  testCases.TC_001_Login - validating login page
+14:09:57.343 [main] INFO  testCases.TC_001_Login - **** Starting TC_001_Login Test****
+14:10:02.496 [main] INFO  testCases.TC_001_Login - Entering username
+14:10:02.638 [main] INFO  testCases.TC_001_Login - Entering password
+14:10:02.720 [main] INFO  testCases.TC_001_Login - click on lohin button
+14:10:02.724 [main] INFO  testCases.TC_001_Login - validating login page
+15:47:53.187 [main] INFO  testCases.TC_001_Login - **** Starting TC_001_Login Test****
+15:47:53.813 [main] INFO  testCases.TC_001_Login - Entering username
+15:47:54.011 [main] INFO  testCases.TC_001_Login - Entering password
+15:47:55.487 [main] INFO  testCases.TC_001_Login - click on lohin button
+15:47:55.494 [main] INFO  testCases.TC_001_Login - validating login page
+15:47:56.041 [main] INFO  testCases.TC_001_Login - **** Finished TC_001_Login Test****
+16:00:01.074 [main] INFO  testCases.TC_001_Login - **** Starting TC_001_Login Test****
+16:00:01.573 [main] INFO  testCases.TC_001_Login - Entering username
+16:00:01.746 [main] INFO  testCases.TC_001_Login - Entering password
+16:00:01.865 [main] INFO  testCases.TC_001_Login - click on lohin button
+16:00:01.866 [main] INFO  testCases.TC_001_Login - validating login page
+16:00:03.795 [main] INFO  testCases.TC_001_Login - **** Finished TC_001_Login Test****
+16:07:34.263 [main] INFO  testCases.TC_001_Login - **** Starting TC_001_Login Test****
+16:07:34.783 [main] INFO  testCases.TC_001_Login - Entering username
+16:07:34.947 [main] INFO  testCases.TC_001_Login - Entering password
+16:07:35.069 [main] INFO  testCases.TC_001_Login - click on lohin button
+16:07:35.071 [main] INFO  testCases.TC_001_Login - validating login page
+16:07:36.704 [main] INFO  testCases.TC_001_Login - **** Finished TC_001_Login Test****
+16:07:47.014 [main] INFO  testCases.TC_001_Login - **** Starting TC_001_Login Test****
+16:07:47.686 [main] INFO  testCases.TC_001_Login - Entering username
+16:07:47.876 [main] INFO  testCases.TC_001_Login - Entering password
+16:07:48.088 [main] INFO  testCases.TC_001_Login - click on lohin button
+16:07:48.089 [main] INFO  testCases.TC_001_Login - validating login page
+16:07:50.300 [main] INFO  testCases.TC_001_Login - **** Finished TC_001_Login Test****
+15:47:10.977 [main] INFO  testCases.TC_001_Login - **** Starting TC_001_Login Test****
+15:47:11.391 [main] INFO  testCases.TC_001_Login - Entering username
+15:47:11.555 [main] INFO  testCases.TC_001_Login - Entering password
+15:47:11.684 [main] INFO  testCases.TC_001_Login - click on lohin button
+15:47:11.686 [main] INFO  testCases.TC_001_Login - validating login page
+15:47:13.472 [main] INFO  testCases.TC_001_Login - **** Finished TC_001_Login Test****
+15:48:00.916 [main] INFO  testCases.TC_001_Login - **** Starting TC_001_Login Test****
+15:48:01.349 [main] INFO  testCases.TC_001_Login - Entering username
+15:48:01.526 [main] INFO  testCases.TC_001_Login - Entering password
+15:48:01.632 [main] INFO  testCases.TC_001_Login - click on lohin button
+15:48:01.638 [main] INFO  testCases.TC_001_Login - validating login page
+14:55:15.198 [main] INFO  testCases.TC_001_Login - **** Starting TC_001_Login Test****
+14:55:16.299 [main] INFO  testCases.TC_001_Login - Entering username
+14:55:16.758 [main] INFO  testCases.TC_001_Login - Entering password
+14:55:16.918 [main] INFO  testCases.TC_001_Login - click on lohin button
+14:55:16.923 [main] INFO  testCases.TC_001_Login - validating login page
+15:00:31.592 [main] INFO  testCases.TC_001_Login - **** Starting TC_001_Login Test****
+15:00:32.827 [main] INFO  testCases.TC_001_Login - Entering username
+15:00:33.403 [main] INFO  testCases.TC_001_Login - Entering password
+15:00:33.669 [main] INFO  testCases.TC_001_Login - click on lohin button
+15:00:33.676 [main] INFO  testCases.TC_001_Login - validating login page
+15:06:24.178 [main] INFO  testCases.TC_001_Login - **** Starting TC_001_Login Test****
+15:06:25.099 [main] INFO  testCases.TC_001_Login - Entering username
+15:06:25.587 [main] INFO  testCases.TC_001_Login - Entering password
+15:06:27.035 [main] INFO  testCases.TC_001_Login - click on lohin button
+15:06:27.042 [main] INFO  testCases.TC_001_Login - validating login page
